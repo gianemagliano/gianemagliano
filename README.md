@@ -1,8 +1,7 @@
-- 👋 Hola, soy @gianemagliano
+- 👋 Hola, soy Gianella Magliano
 - 👀 Soy estudiante de Ingeniería en Sistemas
 - 🌱 Actualmente estoy realizando un curso de Deesarrollo Fullstack
-- 💞️ I’m looking to collaborate on ...
-- 📫 Comunicarse conmigo al email gianellamagliano@gmail.com
+- 📫 Para contactarme al email gianellamagliano@gmail.com
 
 <!---
 gianemagliano/gianemagliano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
