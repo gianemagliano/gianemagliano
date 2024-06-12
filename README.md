@@ -1,6 +1,6 @@
 - 👋 Hola, soy Gianella Magliano
-- 👀 Soy estudiante de Ingeniería en Sistemas
-- 🌱 Actualmente estoy realizando un curso de Deesarrollo Fullstack
+- 👀 Estoy estudiando la carrera Ingeniería en Sistemas en la UTN FRC
+- 🌱 Actualmente estoy realizando un curso de Desarrollo Fullstack
 - 📫 Para contactarme al email gianellamagliano@gmail.com
 
 <!---
